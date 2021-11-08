@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python and distributed programming concepts. Always ready to learn and adopt new things...
 - 💞️ I’m looking to collaborate on any interesting project, though I spend a significant amount of my time on Stack Overflow 
       (commenting / learning / answering rarely - in that order)
-- 📫 How to reach me ... kindly connect with me on LinkedIn!
+- 📫 How to reach me ... kindly connect with me on LinkedIn (www.linkedin.com/in/shekharsuman93)!
 
 <!---
 am-i-helpful/am-i-helpful is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
