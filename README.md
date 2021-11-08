@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @am-i-helpful
+- 👋 Hi, I’m Shekhar Suman.
 - 👀 I’m interested in Java programming language and the underlying environment, Linux OS, and the system administration stuff.
 - 🌱 I’m currently learning Python and distributed programming concepts. Always ready to learn and adopt new things...
 - 💞️ I’m looking to collaborate on any interesting project, though I spend a significant amount of my time on Stack Overflow 
